@@ -52,7 +52,5 @@ To replicate or extend the analysis, follow these steps:
 
 Contributions are welcome! If you have suggestions, find bugs, or want to contribute to the project, feel free to open an issue or create a pull request.
 
-
 ## Author
-
-- Edifon Emmanuel Jimmy
+Jessica Dan-Odhomo
